@@ -1,7 +1,3 @@
-# Power BI Dashboard
-
-This repository is a collection of Power BI dashboards I have developed. It tracks my journey in using Power BI, from foundational reports to more advanced interactive analyses, all aimed at turning data into clear, actionable insights.
-
 # Featured Dashboards
 
 Explore the dashboards below. Each has its own dedicated README with more details on the build process and specific features.
